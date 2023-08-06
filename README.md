@@ -1,6 +1,5 @@
-<img src = "https://github.com/saumyaprashi/saumyaprashi/blob/main/good-programmer-banner-final.jpg">
-# 💫 About Me:
-Hey, Visitor great to see you here !!<br>🌱 I’m currently learning Java Development<br>💬 Ask me about Core JAVA, DSA, Front-End Development<br>⚡ Fun fact about me is I'm Selectively Communicative
+
+<b>Hey, Visitor great to see you here !!<b><br>🌱 I’m currently learning Java Development<br>💬 Ask me about Core JAVA, DSA, Front-End Development<br>⚡ Fun fact about me is I'm Selectively Communicative
 
 
 ## 🌐 Socials:
